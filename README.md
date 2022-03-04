@@ -8,7 +8,7 @@ seasonality and forecasts with Prophet.
 # Technical Details
 
 This analysis was completed in Google colab at (https://colab.research.google.com/drive/1GGnkd03EA_a61udOBzKNBlTUDINFq_DM#scrollTo=-ncJFW68L5VQ)
-
+This analysis MUST be run in Google colab
 Requires Facebook Prophet
 
 # Requires following libraries and imports
@@ -31,6 +31,7 @@ numpy as np
 
 # Data
 The data comes from two csv files called google_hourly_search_trends.csv and mercado_stock_price.csv stored in the Resources folder
+You will be required in Google Colab to choose each of the files to upload them - find the files in the Resources section.
 
 '''
 Path("google_hourly_search_trends.csv")
